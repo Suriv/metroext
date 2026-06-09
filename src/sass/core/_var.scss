@@ -1,20 +1,23 @@
 //Colors
 
 :root {
-  --color-ln-01: #44bcff;
-  --color-ln-02: #ffffff;
+  --color-ln-01: #67c0dd;
+  --color-ln-02: #e0292f;
   --color-ln-03: #fdd700;
-  --color-ln-04: #262626;
-  --color-ln-05: #858484;
-  --color-ln-06: #f1f1f1;
-  --color-ln-07: #f1f1f1;
-  --color-ln-08: #f1f1f1;
-  --color-ln-10: #f1f1f1;
-  --color-ln-11: #f1f1f1;
-  --color-ln-12: #f1f1f1;
-  --color-ln-ml: #f1f1f1;
+  --color-ln-04: #cf7700;
+  --color-ln-05: #98be13;
+  --color-ln-06: #c0bab0;
+  --color-ln-07: #f19c0c;
+  --color-ln-08: #eba6c9;
+  --color-ln-09: #eba6c9;
+  --color-ln-10: #005fa9;
+  --color-ln-11: #009739;
+  --color-ln-12: #af9f00;
+  --color-ln-ml: #5f87c0;
+  --color-ln-r: #005fa9;
 
-  --color-m-900: #242424;
+  --color-m-white: #ffffff;
+  --color-m-black: #242424;
 
   --mobile-landscape: 480px; // Phone landscape minimum
   --tablet: 768px; // Tablet portrait minimum
@@ -25,9 +28,3 @@
 }
 
 //Responsive configuration
-
-$rd-types: (
-  md: 'width > #{var(--tablet)}',
-  lg: 'width > #{var(--desktop)}',
-  xl: 'width > #{var(--large-desktop)}',
-) !default; // Responsive configuration

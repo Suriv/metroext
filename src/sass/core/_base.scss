@@ -18,11 +18,17 @@ body {
 }
 
 body{
-  background: var(--color-m-900);
+  background: var(--color-m-black);
+  color: var(--color-m-white)
+}
+
+img{
+  width: var(--hundred);
+  height: var(--hundred);
 }
 
 a{
-  
+  color: var(--color-m-white);
   text-decoration:none;
   font-weight:bold;
   &:hover{

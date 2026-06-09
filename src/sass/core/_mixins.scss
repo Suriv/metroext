@@ -1,12 +1,9 @@
 
-@mixin clearfix(){
-  &:after{
-	clear: both; content: "."; display: block; height: 0; visibility: hidden;
-  }
-}
+  $tablet: 768px; // Tablet portrait minimum
+  $desktop: 992px; // Laptop+Desktop minimum
+  $large-desktop: 1280px; // Large screen minimum
 
-
-@mixin disabled(){
+@mixin disabled{
 	cursor:default;
     pointer-events: none;
     user-select: none;
@@ -22,11 +19,21 @@
     }
 }
 
-@mixin clearfix(){
-  &:after{
-    clear: both; content: "."; display: block; height: 0; visibility: hidden;
+@mixin tablet {
+  @media (width > #{$tablet}) {
+    @content;
   }
 }
 
+@mixin desktop {
+  @media (width > #{$desktop}) {
+    @content;
+  }
+}
 
+@mixin desktop-lg {
+  @media (width > #{$desktop-lg}) {
+    @content;
+  }
+}
 

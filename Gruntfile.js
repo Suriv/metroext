@@ -85,9 +85,7 @@ module.exports = grunt => {
         },
 
         watch: {
-            options: {
-              livereload: true,
-            },
+           
             gruntfile: {files: ['Gruntfile.js'], tasks: ['default']},
             sass: { files: ["src/sass/**/*.scss"], tasks: ["sass"] },
             jsCore: {files: ['src/js/core/**.js'], tasks: ['clean:folderJsCore','uglify:srcjs']},
@@ -96,6 +94,9 @@ module.exports = grunt => {
             htmlComponent: {files: ['src/html/**'], tasks: ['clean:folderhtm','copy:htmlComponent']},
             txtComponent: {files: ['src/txt/**'], tasks: ['clean:foldertxt','copy:txtComponent']},
             jsonFolder: {files: ['src/json/**'], tasks: ['clean:folderJson','copy:json']},
+             options: {
+              livereload: true,
+            },
         }
     });
 

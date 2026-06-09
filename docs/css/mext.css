@@ -1,29 +1,27 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
 :root {
-  --color-ln-01: #44bcff;
-  --color-ln-02: #ffffff;
+  --color-ln-01: #67c0dd;
+  --color-ln-02: #e0292f;
   --color-ln-03: #fdd700;
-  --color-ln-04: #262626;
-  --color-ln-05: #858484;
-  --color-ln-06: #f1f1f1;
-  --color-ln-07: #f1f1f1;
-  --color-ln-08: #f1f1f1;
-  --color-ln-10: #f1f1f1;
-  --color-ln-11: #f1f1f1;
-  --color-ln-12: #f1f1f1;
-  --color-ln-ml: #f1f1f1;
-  --color-m-900: #242424;
+  --color-ln-04: #cf7700;
+  --color-ln-05: #98be13;
+  --color-ln-06: #c0bab0;
+  --color-ln-07: #f19c0c;
+  --color-ln-08: #eba6c9;
+  --color-ln-09: #eba6c9;
+  --color-ln-10: #005fa9;
+  --color-ln-11: #009739;
+  --color-ln-12: #af9f00;
+  --color-ln-ml: #5f87c0;
+  --color-ln-r: #005fa9;
+  --color-m-white: #ffffff;
+  --color-m-black: #242424;
   --mobile-landscape: 480px;
   --tablet: 768px;
   --desktop: 992px;
   --large-desktop: 1280px;
   --hundred: 100%;
   --content-width: 99rem;
-}
-
-*:where(:not(html, iframe, canvas, img, svg, video, audio):not(svg *, symbol *)) {
-  all: unset;
-  display: revert;
 }
 
 * {
@@ -41,6 +39,12 @@ h1, h2, h3 {
 
 p {
   text-wrap: pretty;
+}
+
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 html,
@@ -64,10 +68,17 @@ header, article, div {
 }
 
 body {
-  background: var(--color-m-900);
+  background: var(--color-m-black);
+  color: var(--color-m-white);
+}
+
+img {
+  width: var(--hundred);
+  height: var(--hundred);
 }
 
 a {
+  color: var(--color-m-white);
   text-decoration: none;
   font-weight: bold;
 }
@@ -81,4 +92,43 @@ a:focus {
 svg {
   display: inline-block;
   cursor: pointer;
+}
+
+.lines_list {
+  padding: 2.4rem 1.6rem;
+}
+.lines_list__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 40rem;
+  margin: 0 auto;
+  gap: 2.4rem;
+}
+.lines_list__item {
+  display: block;
+  width: 25%;
+  height: 25%;
+}
+@media (width > 768px) {
+  .lines_list {
+    padding: 2.4rem 0;
+  }
+}
+
+footer {
+  position: relative;
+  display: block;
+  width: var(--hundred);
+  min-height: 3rem;
+  height: auto;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 3rem;
+  font-weight: 200;
+}
+@media (width > 768px) {
+  footer {
+    background: blue;
+  }
 }

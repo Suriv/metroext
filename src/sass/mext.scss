@@ -1,15 +1,16 @@
 @charset "UTF-8";
-// Copyright (c) 2015-2020 Rescue.
+// Copyright (c) 2026-end time.
 
 // Imports & config
 @use "core/var";
 @use "core/_mixins";
-
 @use "lib/reset";
 @use "core/fonts";
 @use "core/base";
 
-
-//Base sizes
+// components
+@use "components/lines_list";
+@use "components/lines_full";
+@use "components/footer";
 
 
