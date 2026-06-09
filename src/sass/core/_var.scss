@@ -1,0 +1,33 @@
+//Colors
+
+:root {
+  --color-ln-01: #44bcff;
+  --color-ln-02: #ffffff;
+  --color-ln-03: #fdd700;
+  --color-ln-04: #262626;
+  --color-ln-05: #858484;
+  --color-ln-06: #f1f1f1;
+  --color-ln-07: #f1f1f1;
+  --color-ln-08: #f1f1f1;
+  --color-ln-10: #f1f1f1;
+  --color-ln-11: #f1f1f1;
+  --color-ln-12: #f1f1f1;
+  --color-ln-ml: #f1f1f1;
+
+  --color-m-900: #242424;
+
+  --mobile-landscape: 480px; // Phone landscape minimum
+  --tablet: 768px; // Tablet portrait minimum
+  --desktop: 992px; // Laptop+Desktop minimum
+  --large-desktop: 1280px; // Large screen minimum
+  --hundred: 100%;
+  --content-width: 99rem;
+}
+
+//Responsive configuration
+
+$rd-types: (
+  md: 'width > #{var(--tablet)}',
+  lg: 'width > #{var(--desktop)}',
+  xl: 'width > #{var(--large-desktop)}',
+) !default; // Responsive configuration

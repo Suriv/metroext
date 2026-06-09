@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+:root {
+  --color-ln-01: #44bcff;
+  --color-ln-02: #ffffff;
+  --color-ln-03: #fdd700;
+  --color-ln-04: #262626;
+  --color-ln-05: #858484;
+  --color-ln-06: #f1f1f1;
+  --color-ln-07: #f1f1f1;
+  --color-ln-08: #f1f1f1;
+  --color-ln-10: #f1f1f1;
+  --color-ln-11: #f1f1f1;
+  --color-ln-12: #f1f1f1;
+  --color-ln-ml: #f1f1f1;
+  --color-m-900: #242424;
+  --mobile-landscape: 480px;
+  --tablet: 768px;
+  --desktop: 992px;
+  --large-desktop: 1280px;
+  --hundred: 100%;
+  --content-width: 99rem;
+}
+
+*:where(:not(html, iframe, canvas, img, svg, video, audio):not(svg *, symbol *)) {
+  all: unset;
+  display: revert;
+}
+
+* {
+  box-sizing: border-box;
+  min-width: 0;
+}
+
+body {
+  min-height: 100dvh;
+}
+
+h1, h2, h3 {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+html,
+body {
+  font-family: "Rubik", sans-serif;
+  font-size: 1rem;
+  line-height: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  font-size: x-small;
+}
+
+header, article, div {
+  outline: none;
+}
+
+body {
+  background: var(--color-m-900);
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:focus {
+  outline: none;
+}
+
+svg {
+  display: inline-block;
+  cursor: pointer;
+}

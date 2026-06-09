@@ -1,0 +1,1 @@
+var stationsAPI="https://raw.githubusercontent.com/Suriv/cp_json/master/db_gen.json",proAPI="https://raw.githubusercontent.com/Suriv/cp_json/master/db_gen.json";

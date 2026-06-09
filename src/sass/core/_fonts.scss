@@ -1,0 +1,17 @@
+// Include family fonts
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+$open-sans: 'Rubik', sans-serif;
+
+$reset-font-size: 1rem;
+
+%bodyCopy {
+	font-family: $open-sans;
+	font-size: $reset-font-size;
+	line-height: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}

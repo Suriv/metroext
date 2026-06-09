@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+footer{
+
+  position:relative;
+  display:block;
+  width:var(--hundred);
+  min-height:3rem;
+  height:auto;
+  text-align:center;
+  
+  font-size:1.6rem;
+  line-height: 3rem;
+  font-weight: 200;
+ 
+  @media (map-get($rd-types, md)){
+    position: fixed;
+    bottom:0;
+  }
+}

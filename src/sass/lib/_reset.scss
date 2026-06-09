@@ -1,0 +1,14 @@
+*:where(:not(html, iframe, canvas, img, svg, video, audio):not(svg *, symbol *)) {all: unset;  display: revert;}
+*{
+	box-sizing: border-box;
+	min-width: 0;
+}
+body{
+	min-height: 100dvh;
+}
+h1, h2, h3{
+	text-wrap: balance;
+}
+p{
+	text-wrap: pretty;
+}

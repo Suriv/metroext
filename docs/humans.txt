@@ -1,0 +1,34 @@
+/* TEAM */
+
+
+Your title: Charge prices.
+
+
+Site: https://isuriv.com/
+
+Twitter: https://twitter.com/isuriv
+Location: Madrid,Spain
+
+                        [...]
+
+
+
+/* THANKS */
+
+
+ForoEV: Fernando Pina (https://twitter.com/fpina_) y el hilo de ForoEV dónde la gente  colabora (http://foroev.com/index.php?topic=4466.0)
+
+
+
+                        [...]
+
+
+
+/* SITE */
+
+
+Last update: 2020/07/29
+
+
+Standards: HTML5, CSS3
+Components: jQuery, dataTables.
