@@ -17,7 +17,8 @@
       position: absolute;
       left: 0;
       top: 0;
-      background: var(--color-ln-01);
+
+      @include mixins.line-bg();
     }
   }
 
@@ -34,18 +35,20 @@
       width: 3rem;
       border-radius: 1.5rem;
       height: 1rem;
-      background: var(--color-ln-01);
+      @include mixins.line-bg();
     }
 
     &.connect {
       &::before {
         height: 2.4rem;
         width: 2.4rem;
-        background-color: #fff;
+        background: var(--color-m-white);
         border-radius: 100%;
-        border: 0.5rem solid var(--color-ln-01);
+        border-width: 0.5rem;
+        border-style: solid;
         left: -5.2rem;
         top: -1rem;
+        @include mixins.line-border();
       }
     }
     &:last-child {

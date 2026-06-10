@@ -20,20 +20,20 @@
   -moz-osx-font-smoothing: grayscale;
 }
 :root {
-  --icon-line-LR: '\f001';
-  --icon-line-12: '\f002';
-  --icon-line-11: '\f003';
-  --icon-line-10: '\f004';
-  --icon-line-09: '\f005';
-  --icon-line-08: '\f006';
-  --icon-line-07: '\f007';
-  --icon-line-06: '\f008';
-  --icon-line-05: '\f009';
-  --icon-line-04: '\f00a';
-  --icon-line-03: '\f00b';
-  --icon-line-02: '\f00c';
   --icon-line-01: '\f00d';
-  --icon-line-ML: '\f000';
+  --icon-line-02: '\f00c';
+  --icon-line-03: '\f00b';
+  --icon-line-04: '\f00a';
+  --icon-line-05: '\f009';
+  --icon-line-06: '\f008';
+  --icon-line-07: '\f007';
+  --icon-line-08: '\f006';
+  --icon-line-09: '\f005';
+  --icon-line-10: '\f004';
+  --icon-line-11: '\f003';
+  --icon-line-12: '\f002';
+  --icon-line-lr: '\f001';
+  --icon-line-ml: '\f000';
 }
 .icon-line-LR:before {
   content: var(--icon-line-LR);
