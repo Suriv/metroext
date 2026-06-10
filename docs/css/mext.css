@@ -98,8 +98,8 @@ body {
   --icon-line-ml: '\f000';
 }
 
-.icon-line-LR:before {
-  content: var(--icon-line-LR);
+.icon-line-lr:before {
+  content: var(--icon-line-lr);
 }
 
 .icon-line-12:before {
@@ -150,8 +150,8 @@ body {
   content: var(--icon-line-01);
 }
 
-.icon-line-ML:before {
-  content: var(--icon-line-ML);
+.icon-line-ml:before {
+  content: var(--icon-line-ml);
 }
 
 html {

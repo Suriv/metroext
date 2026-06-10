@@ -1,0 +1,2026 @@
+{
+  "L1": [
+    {
+      "nombre": "Pinar de Chamartin",
+      "tipo": "cabecera",
+      "codigo": "60153",
+      "conexiones": [
+        "L4",
+        "ML"
+      ]
+    },
+    {
+      "nombre": "Bambú",
+      "tipo": "intermedia",
+      "codigo": "60152",
+      "conexiones": []
+    },
+    {
+      "nombre": "Chamartin",
+      "tipo": "intermedia",
+      "codigo": "60151",
+      "conexiones": [
+        "L10"
+      ]
+    },
+    {
+      "nombre": "Plaza Castilla",
+      "tipo": "intermedia",
+      "codigo": "60101",
+      "conexiones": [
+        "L9",
+        "L10"
+      ]
+    },
+    {
+      "nombre": "Valdeacederas",
+      "tipo": "intermedia",
+      "codigo": "60102",
+      "conexiones": []
+    },
+    {
+      "nombre": "Tetuán",
+      "tipo": "intermedia",
+      "codigo": "60103",
+      "conexiones": []
+    },
+    {
+      "nombre": "Estrecho",
+      "tipo": "intermedia",
+      "codigo": "60104",
+      "conexiones": []
+    },
+    {
+      "nombre": "Alvarado",
+      "tipo": "intermedia",
+      "codigo": "60105",
+      "conexiones": []
+    },
+    {
+      "nombre": "Cuatro Caminos",
+      "tipo": "intermedia",
+      "codigo": "60106",
+      "conexiones": [
+        "L2",
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Rios Rosas",
+      "tipo": "intermedia",
+      "codigo": "60107",
+      "conexiones": []
+    },
+    {
+      "nombre": "Iglesias",
+      "tipo": "intermedia",
+      "codigo": "60108",
+      "conexiones": []
+    },
+    {
+      "nombre": "Bilbao",
+      "tipo": "intermedia",
+      "codigo": "60109",
+      "conexiones": [
+        "L4"
+      ]
+    },
+    {
+      "nombre": "Tribunal",
+      "tipo": "intermedia",
+      "codigo": "60110",
+      "conexiones": [
+        "L10"
+      ]
+    },
+    {
+      "nombre": "Gran Vía",
+      "tipo": "intermedia",
+      "codigo": "60111",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "Sol",
+      "tipo": "intermedia",
+      "codigo": "60112",
+      "conexiones": [
+        "L2",
+        "L3"
+      ]
+    },
+    {
+      "nombre": "Tirso Molina",
+      "tipo": "intermedia",
+      "codigo": "60113",
+      "conexiones": []
+    },
+    {
+      "nombre": "Anton Martin",
+      "tipo": "intermedia",
+      "codigo": "60114",
+      "conexiones": []
+    },
+    {
+      "nombre": "Estadción del Arte",
+      "tipo": "intermedia",
+      "codigo": "60115",
+      "conexiones": []
+    },
+    {
+      "nombre": "Atocha",
+      "tipo": "intermedia",
+      "codigo": "60116",
+      "conexiones": []
+    },
+    {
+      "nombre": "Menendez Pelayo",
+      "tipo": "intermedia",
+      "codigo": "60117",
+      "conexiones": []
+    },
+    {
+      "nombre": "Pacifico",
+      "tipo": "intermedia",
+      "codigo": "60118",
+      "conexiones": [
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Puente de Vallecas",
+      "tipo": "intermedia",
+      "codigo": "60118",
+      "conexiones": []
+    },
+    {
+      "nombre": "Numancia",
+      "tipo": "intermedia",
+      "codigo": "60119",
+      "conexiones": []
+    },
+    {
+      "nombre": "Portazgo",
+      "tipo": "intermedia",
+      "codigo": "60121",
+      "conexiones": []
+    },
+    {
+      "nombre": "Buenos Aires",
+      "tipo": "intermedia",
+      "codigo": "60122",
+      "conexiones": []
+    },
+    {
+      "nombre": "Alto Arenal",
+      "tipo": "intermedia",
+      "codigo": "60123",
+      "conexiones": []
+    },
+    {
+      "nombre": "Miguel Hernandez",
+      "tipo": "intermedia",
+      "codigo": "60124",
+      "conexiones": []
+    },
+    {
+      "nombre": "Sierra de Guadalupe",
+      "tipo": "intermedia",
+      "codigo": "60125",
+      "conexiones": []
+    },
+    {
+      "nombre": "Villa de Vallecas",
+      "tipo": "intermedia",
+      "codigo": "60126",
+      "conexiones": []
+    },
+    {
+      "nombre": "Congosto",
+      "tipo": "intermedia",
+      "codigo": "60127",
+      "conexiones": []
+    },
+    {
+      "nombre": "La Gavia",
+      "tipo": "intermedia",
+      "codigo": "60128",
+      "conexiones": []
+    },
+    {
+      "nombre": "Las Suertes",
+      "tipo": "intermedia",
+      "codigo": "60129",
+      "conexiones": []
+    },
+    {
+      "nombre": "Valdecarros",
+      "tipo": "fin",
+      "codigo": "60130",
+      "conexiones": []
+    }
+  ],
+  "L2": [
+    {
+      "nombre": "Las Rosas",
+      "tipo": "cabecera",
+      "codigo": "60625",
+      "conexiones": []
+    },
+    {
+      "nombre": "Avenida Guadalajara",
+      "tipo": "intermedia",
+      "codigo": "60255",
+      "conexiones": []
+    },
+    {
+      "nombre": "Alsacia",
+      "tipo": "intermedia",
+      "codigo": "60253",
+      "conexiones": []
+    },
+    {
+      "nombre": "La Almudena",
+      "tipo": "intermedia",
+      "codigo": "60252",
+      "conexiones": []
+    },
+    {
+      "nombre": "La Elipa",
+      "tipo": "intermedia",
+      "codigo": "60251",
+      "conexiones": []
+    },
+    {
+      "nombre": "Ventas",
+      "tipo": "intermedia",
+      "codigo": "60201",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "Manuel Becerra",
+      "tipo": "intermedia",
+      "codigo": "60202",
+      "conexiones": [
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Goya",
+      "tipo": "intermedia",
+      "codigo": "60203",
+      "conexiones": [
+        "L4"
+      ]
+    },
+    {
+      "nombre": "Príncipe de Vergara",
+      "tipo": "intermedia",
+      "codigo": "60204",
+      "conexiones": [
+        "L9"
+      ]
+    },
+    {
+      "nombre": "Retiro",
+      "tipo": "intermedia",
+      "codigo": "60205",
+      "conexiones": []
+    },
+    {
+      "nombre": "Banco de España",
+      "tipo": "intermedia",
+      "codigo": "60206",
+      "conexiones": []
+    },
+    {
+      "nombre": "Sevilla",
+      "tipo": "intermedia",
+      "codigo": "60207",
+      "conexiones": []
+    },
+    {
+      "nombre": "Sol",
+      "tipo": "intermedia",
+      "codigo": "60162",
+      "conexiones": [
+        "L1",
+        "L3"
+      ]
+    },
+    {
+      "nombre": "Opera",
+      "tipo": "intermedia",
+      "codigo": "60209",
+      "conexiones": [
+        "L5",
+        "RAMAL"
+      ]
+    },
+    {
+      "nombre": "Santo Domingo",
+      "tipo": "intermedia",
+      "codigo": "60210",
+      "conexiones": []
+    },
+    {
+      "nombre": "Noviciado",
+      "tipo": "intermedia",
+      "codigo": "60211",
+      "conexiones": [
+        "L3",
+        "L10"
+      ]
+    },
+    {
+      "nombre": "San Bernardo",
+      "tipo": "intermedia",
+      "codigo": "60212",
+      "conexiones": [
+        "L4"
+      ]
+    },
+    {
+      "nombre": "Quevedo",
+      "tipo": "intermedia",
+      "codigo": "60213",
+      "conexiones": []
+    },
+    {
+      "nombre": "Canal",
+      "tipo": "intermedia",
+      "codigo": "60214",
+      "conexiones": [
+        "L7"
+      ]
+    },
+    {
+      "nombre": "Cuatro Caminos",
+      "tipo": "fin",
+      "codigo": "60106",
+      "conexiones": [
+        "L1",
+        "L6"
+      ]
+    }
+  ],
+  "L3": [
+    {
+      "nombre": "El Casar",
+      "tipo": "cabecera",
+      "codigo": "60358",
+      "conexiones": [
+        "L12"
+      ]
+    },
+    {
+      "nombre": "Villaverde Alto",
+      "tipo": "intermedia",
+      "codigo": "60357",
+      "conexiones": []
+    },
+    {
+      "nombre": "San Cristobal",
+      "tipo": "intermedia",
+      "codigo": "60356",
+      "conexiones": []
+    },
+    {
+      "nombre": "Villaverde Bajo Cruce",
+      "tipo": "intermedia",
+      "codigo": "60355",
+      "conexiones": []
+    },
+    {
+      "nombre": "Ciudad de los Angeles",
+      "tipo": "intermedia",
+      "codigo": "60354",
+      "conexiones": []
+    },
+    {
+      "nombre": "San Fermin-Orcasur",
+      "tipo": "intermedia",
+      "codigo": "60353",
+      "conexiones": []
+    },
+    {
+      "nombre": "Hospital 12 de Octubre",
+      "tipo": "intermedia",
+      "codigo": "60352",
+      "conexiones": []
+    },
+    {
+      "nombre": "Almendrales",
+      "tipo": "intermedia",
+      "codigo": "60351",
+      "conexiones": []
+    },
+    {
+      "nombre": "Legazpi",
+      "tipo": "intermedia",
+      "codigo": "60301",
+      "conexiones": [
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Delicias",
+      "tipo": "intermedia",
+      "codigo": "60302",
+      "conexiones": []
+    },
+    {
+      "nombre": "Palos de la Frontera",
+      "tipo": "intermedia",
+      "codigo": "60303",
+      "conexiones": []
+    },
+    {
+      "nombre": "Embajadores",
+      "tipo": "intermedia",
+      "codigo": "60304",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "Lavapies",
+      "tipo": "intermedia",
+      "codigo": "60305",
+      "conexiones": []
+    },
+    {
+      "nombre": "Sol",
+      "tipo": "intermedia",
+      "codigo": "60162",
+      "conexiones": [
+        "L1",
+        "L2"
+      ]
+    },
+    {
+      "nombre": "Callao",
+      "tipo": "intermedia",
+      "codigo": "60307",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "Plaza España",
+      "tipo": "intermedia",
+      "codigo": "60308",
+      "conexiones": [
+        "L10",
+        "L2"
+      ]
+    },
+    {
+      "nombre": "Ventura Rodriguez",
+      "tipo": "intermedia",
+      "codigo": "60309",
+      "conexiones": []
+    },
+    {
+      "nombre": "Argüelles",
+      "tipo": "intermedia",
+      "codigo": "60310",
+      "conexiones": [
+        "L4",
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Moncloa",
+      "tipo": "fin",
+      "codigo": "60311",
+      "conexiones": [
+        "L6"
+      ]
+    }
+  ],
+  "L4": [
+    {
+      "nombre": "argüelles",
+      "tipo": "cabecera",
+      "codigo": "60310",
+      "conexiones": [
+        "L3",
+        "L6"
+      ]
+    },
+    {
+      "nombre": "san bernardo",
+      "tipo": "intermedia",
+      "codigo": "60212",
+      "conexiones": [
+        "L2"
+      ]
+    },
+    {
+      "nombre": "Bilbao",
+      "tipo": "intermedia",
+      "codigo": "60109",
+      "conexiones": [
+        "L1"
+      ]
+    },
+    {
+      "nombre": "alonso martinez",
+      "tipo": "intermedia",
+      "codigo": "60404",
+      "conexiones": [
+        "L5",
+        "L10"
+      ]
+    },
+    {
+      "nombre": "Colon",
+      "tipo": "intermedia",
+      "codigo": "60405",
+      "conexiones": []
+    },
+    {
+      "nombre": "Serrano",
+      "tipo": "intermedia",
+      "codigo": "60406",
+      "conexiones": []
+    },
+    {
+      "nombre": "Velazquez",
+      "tipo": "intermedia",
+      "codigo": "60407",
+      "conexiones": []
+    },
+    {
+      "nombre": "goya",
+      "tipo": "intermedia",
+      "codigo": "60203",
+      "conexiones": [
+        "L2"
+      ]
+    },
+    {
+      "nombre": "Lista",
+      "tipo": "intermedia",
+      "codigo": "60409",
+      "conexiones": []
+    },
+    {
+      "nombre": "Diego",
+      "tipo": "intermedia",
+      "codigo": "60410",
+      "conexiones": [
+        "L5",
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Avda. america",
+      "tipo": "intermedia",
+      "codigo": "60411",
+      "conexiones": [
+        "L6",
+        "L7",
+        "L9"
+      ]
+    },
+    {
+      "nombre": "prosperidad",
+      "tipo": "intermedia",
+      "codigo": "60412",
+      "conexiones": []
+    },
+    {
+      "nombre": "alfonso xiii",
+      "tipo": "intermedia",
+      "codigo": "60413",
+      "conexiones": []
+    },
+    {
+      "nombre": "Avda. La paz",
+      "tipo": "intermedia",
+      "codigo": "60414",
+      "conexiones": []
+    },
+    {
+      "nombre": "arturo soria",
+      "tipo": "intermedia",
+      "codigo": "60415",
+      "conexiones": []
+    },
+    {
+      "nombre": "esperanza",
+      "tipo": "intermedia",
+      "codigo": "60416",
+      "conexiones": []
+    },
+    {
+      "nombre": "Canillas",
+      "tipo": "intermedia",
+      "codigo": "60417",
+      "conexiones": []
+    },
+    {
+      "nombre": "mar",
+      "tipo": "intermedia",
+      "codigo": "60418",
+      "conexiones": [
+        "L8"
+      ]
+    },
+    {
+      "nombre": "San Lorenzo",
+      "tipo": "intermedia",
+      "codigo": "60419",
+      "conexiones": []
+    },
+    {
+      "nombre": "Parque Sta. Maria",
+      "tipo": "intermedia",
+      "codigo": "60420",
+      "conexiones": []
+    },
+    {
+      "nombre": "Hortaleza",
+      "tipo": "intermedia",
+      "codigo": "60421",
+      "conexiones": []
+    },
+    {
+      "nombre": "manoteras",
+      "tipo": "intermedia",
+      "codigo": "60422",
+      "conexiones": []
+    },
+    {
+      "nombre": "pinar",
+      "tipo": "fin",
+      "codigo": "60153",
+      "conexiones": [
+        "L1",
+        "ML"
+      ]
+    }
+  ],
+  "L5": [
+    {
+      "nombre": "alameda",
+      "tipo": "cabecera",
+      "codigo": "60552",
+      "conexiones": []
+    },
+    {
+      "nombre": "el capricho",
+      "tipo": "intermedia",
+      "codigo": "60551",
+      "conexiones": []
+    },
+    {
+      "nombre": "Canillejas",
+      "tipo": "intermedia",
+      "codigo": "60501",
+      "conexiones": []
+    },
+    {
+      "nombre": "torre arias",
+      "tipo": "intermedia",
+      "codigo": "60502",
+      "conexiones": []
+    },
+    {
+      "nombre": "suances",
+      "tipo": "intermedia",
+      "codigo": "60503",
+      "conexiones": []
+    },
+    {
+      "nombre": "Ciudad lineal",
+      "tipo": "intermedia",
+      "codigo": "60504",
+      "conexiones": []
+    },
+    {
+      "nombre": "pueblo",
+      "tipo": "intermedia",
+      "codigo": "60505",
+      "conexiones": [
+        "L7"
+      ]
+    },
+    {
+      "nombre": "quintana",
+      "tipo": "intermedia",
+      "codigo": "60506",
+      "conexiones": []
+    },
+    {
+      "nombre": "el carmen",
+      "tipo": "intermedia",
+      "codigo": "60507",
+      "conexiones": []
+    },
+    {
+      "nombre": "Ventas",
+      "tipo": "intermedia",
+      "codigo": "60201",
+      "conexiones": [
+        "L2"
+      ]
+    },
+    {
+      "nombre": "diego",
+      "tipo": "intermedia",
+      "codigo": "60509",
+      "conexiones": [
+        "L4",
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Nuñez",
+      "tipo": "intermedia",
+      "codigo": "60510",
+      "conexiones": [
+        "L9"
+      ]
+    },
+    {
+      "nombre": "ruben dario",
+      "tipo": "intermedia",
+      "codigo": "60511",
+      "conexiones": []
+    },
+    {
+      "nombre": "alonso",
+      "tipo": "intermedia",
+      "codigo": "60404",
+      "conexiones": [
+        "L4",
+        "L10"
+      ]
+    },
+    {
+      "nombre": "chueca",
+      "tipo": "intermedia",
+      "codigo": "60513",
+      "conexiones": []
+    },
+    {
+      "nombre": "Gran via",
+      "tipo": "intermedia",
+      "codigo": "60111",
+      "conexiones": [
+        "L1"
+      ]
+    },
+    {
+      "nombre": "callao",
+      "tipo": "intermedia",
+      "codigo": "60307",
+      "conexiones": [
+        "L3"
+      ]
+    },
+    {
+      "nombre": "opera",
+      "tipo": "intermedia",
+      "codigo": "60209",
+      "conexiones": [
+        "L2",
+        "RAMAL"
+      ]
+    },
+    {
+      "nombre": "Latina",
+      "tipo": "intermedia",
+      "codigo": "60517",
+      "conexiones": [
+        "L1"
+      ]
+    },
+    {
+      "nombre": "pta. Toledo",
+      "tipo": "intermedia",
+      "codigo": "60518",
+      "conexiones": []
+    },
+    {
+      "nombre": "acacias",
+      "tipo": "intermedia",
+      "codigo": "60519",
+      "conexiones": [
+        "L3"
+      ]
+    },
+    {
+      "nombre": "piramides",
+      "tipo": "intermedia",
+      "codigo": "60520",
+      "conexiones": []
+    },
+    {
+      "nombre": "Vadillo",
+      "tipo": "intermedia",
+      "codigo": "60521",
+      "conexiones": []
+    },
+    {
+      "nombre": "urgel",
+      "tipo": "intermedia",
+      "codigo": "60522",
+      "conexiones": []
+    },
+    {
+      "nombre": "oporto",
+      "tipo": "intermedia",
+      "codigo": "60523",
+      "conexiones": [
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Vista alegre",
+      "tipo": "intermedia",
+      "codigo": "60524",
+      "conexiones": []
+    },
+    {
+      "nombre": "Carabanchel",
+      "tipo": "intermedia",
+      "codigo": "60525",
+      "conexiones": []
+    },
+    {
+      "nombre": "eugenia",
+      "tipo": "intermedia",
+      "codigo": "60526",
+      "conexiones": []
+    },
+    {
+      "nombre": "Aluche",
+      "tipo": "intermedia",
+      "codigo": "60527",
+      "conexiones": []
+    },
+    {
+      "nombre": "empalme",
+      "tipo": "intermedia",
+      "codigo": "60528",
+      "conexiones": []
+    },
+    {
+      "nombre": "campamento",
+      "tipo": "intermedia",
+      "codigo": "60529",
+      "conexiones": []
+    },
+    {
+      "nombre": "c.campo",
+      "tipo": "fin",
+      "codigo": "60530",
+      "conexiones": [
+        "L10"
+      ]
+    }
+  ],
+  "L6": [
+    {
+      "nombre": "laguna",
+      "tipo": "cabecera",
+      "codigo": "60601",
+      "conexiones": []
+    },
+    {
+      "nombre": "carpetana",
+      "tipo": "intermedia",
+      "codigo": "60602",
+      "conexiones": []
+    },
+    {
+      "nombre": "Oporto",
+      "tipo": "intermedia",
+      "codigo": "60523",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "opañel",
+      "tipo": "intermedia",
+      "codigo": "60604",
+      "conexiones": []
+    },
+    {
+      "nombre": "Eliptica",
+      "tipo": "intermedia",
+      "codigo": "60605",
+      "conexiones": [
+        "L11"
+      ]
+    },
+    {
+      "nombre": "usera",
+      "tipo": "intermedia",
+      "codigo": "60606",
+      "conexiones": []
+    },
+    {
+      "nombre": "Legazpi",
+      "tipo": "intermedia",
+      "codigo": "60301",
+      "conexiones": [
+        "L3"
+      ]
+    },
+    {
+      "nombre": "Planetario",
+      "tipo": "intermedia",
+      "codigo": "60608",
+      "conexiones": []
+    },
+    {
+      "nombre": "m. alvaro",
+      "tipo": "intermedia",
+      "codigo": "60609",
+      "conexiones": []
+    },
+    {
+      "nombre": "Pacifico",
+      "tipo": "intermedia",
+      "codigo": "60118",
+      "conexiones": [
+        "L1"
+      ]
+    },
+    {
+      "nombre": "Conde de casal",
+      "tipo": "intermedia",
+      "codigo": "60611",
+      "conexiones": []
+    },
+    {
+      "nombre": "S. Baranda",
+      "tipo": "intermedia",
+      "codigo": "60612",
+      "conexiones": [
+        "L9"
+      ]
+    },
+    {
+      "nombre": "o´donnell",
+      "tipo": "intermedia",
+      "codigo": "60613",
+      "conexiones": []
+    },
+    {
+      "nombre": "becerra",
+      "tipo": "intermedia",
+      "codigo": "60202",
+      "conexiones": [
+        "L2"
+      ]
+    },
+    {
+      "nombre": "Diego de leon",
+      "tipo": "intermedia",
+      "codigo": "60410",
+      "conexiones": [
+        "L4",
+        "L5"
+      ]
+    },
+    {
+      "nombre": "Avda. America",
+      "tipo": "intermedia",
+      "codigo": "60411",
+      "conexiones": [
+        "L4",
+        "L7",
+        "L9"
+      ]
+    },
+    {
+      "nombre": "r. argentina",
+      "tipo": "intermedia",
+      "codigo": "60617",
+      "conexiones": []
+    },
+    {
+      "nombre": "ministerios",
+      "tipo": "intermedia",
+      "codigo": "70618",
+      "conexiones": [
+        "L8",
+        "L10"
+      ]
+    },
+    {
+      "nombre": "caminos",
+      "tipo": "intermedia",
+      "codigo": "60106",
+      "conexiones": [
+        "L1",
+        "L2"
+      ]
+    },
+    {
+      "nombre": "Guzman el bueno",
+      "tipo": "intermedia",
+      "codigo": "60620",
+      "conexiones": [
+        "L7"
+      ]
+    },
+    {
+      "nombre": "metro",
+      "tipo": "intermedia",
+      "codigo": "60621",
+      "conexiones": []
+    },
+    {
+      "nombre": "universitaria",
+      "tipo": "intermedia",
+      "codigo": "60622",
+      "conexiones": []
+    },
+    {
+      "nombre": "moncloa",
+      "tipo": "intermedia",
+      "codigo": "60311",
+      "conexiones": [
+        "L3"
+      ]
+    },
+    {
+      "nombre": "Arguelles",
+      "tipo": "intermedia",
+      "codigo": "60310",
+      "conexiones": [
+        "L3",
+        "L4"
+      ]
+    },
+    {
+      "nombre": "P.pio",
+      "tipo": "intermedia",
+      "codigo": "60625",
+      "conexiones": [
+        "L10",
+        "RAMAL"
+      ]
+    },
+    {
+      "nombre": "Pta. angel",
+      "tipo": "intermedia",
+      "codigo": "60626",
+      "conexiones": []
+    },
+    {
+      "nombre": "Alto extremadura",
+      "tipo": "intermedia",
+      "codigo": "60627",
+      "conexiones": []
+    },
+    {
+      "nombre": "lucero",
+      "tipo": "fin",
+      "codigo": "60628",
+      "conexiones": []
+    }
+  ],
+  "L7": [
+    {
+      "nombre": "hospital",
+      "tipo": "cabecera",
+      "codigo": "60760",
+      "conexiones": []
+    },
+    {
+      "nombre": "henares",
+      "tipo": "intermedia",
+      "codigo": "60759",
+      "conexiones": []
+    },
+    {
+      "nombre": "jarama",
+      "tipo": "intermedia",
+      "codigo": "60758",
+      "conexiones": []
+    },
+    {
+      "nombre": "San Fernando",
+      "tipo": "intermedia",
+      "codigo": "60757",
+      "conexiones": []
+    },
+    {
+      "nombre": "La rambla",
+      "tipo": "intermedia",
+      "codigo": "60756",
+      "conexiones": []
+    },
+    {
+      "nombre": "coslada",
+      "tipo": "intermedia",
+      "codigo": "60755",
+      "conexiones": []
+    },
+    {
+      "nombre": "barrio puerto",
+      "tipo": "intermedia",
+      "codigo": "60754",
+      "conexiones": []
+    },
+    {
+      "nombre": "estadio",
+      "tipo": "bifurcacion_enlace",
+      "codigo": "60751",
+      "conexiones": []
+    },
+    {
+      "nombre": "Las musas",
+      "tipo": "intermedia",
+      "codigo": "60701",
+      "conexiones": []
+    },
+    {
+      "nombre": "san blas",
+      "tipo": "intermedia",
+      "codigo": "60702",
+      "conexiones": []
+    },
+    {
+      "nombre": "simancas",
+      "tipo": "intermedia",
+      "codigo": "60703",
+      "conexiones": []
+    },
+    {
+      "nombre": "G. Noblejas",
+      "tipo": "intermedia",
+      "codigo": "60704",
+      "conexiones": []
+    },
+    {
+      "nombre": "ascao",
+      "tipo": "intermedia",
+      "codigo": "60705",
+      "conexiones": []
+    },
+    {
+      "nombre": "pueblo nuevo",
+      "tipo": "intermedia",
+      "codigo": "60505",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "B. Concepcion",
+      "tipo": "intermedia",
+      "codigo": "60707",
+      "conexiones": []
+    },
+    {
+      "nombre": "pq las avenidas",
+      "tipo": "intermedia",
+      "codigo": "60708",
+      "conexiones": []
+    },
+    {
+      "nombre": "cartagena",
+      "tipo": "intermedia",
+      "codigo": "60709",
+      "conexiones": []
+    },
+    {
+      "nombre": "america",
+      "tipo": "intermedia",
+      "codigo": "60411",
+      "conexiones": [
+        "L4",
+        "L6",
+        "L9"
+      ]
+    },
+    {
+      "nombre": "Marañon",
+      "tipo": "intermedia",
+      "codigo": "60711",
+      "conexiones": [
+        "L10"
+      ]
+    },
+    {
+      "nombre": "alonso cano",
+      "tipo": "intermedia",
+      "codigo": "60712",
+      "conexiones": []
+    },
+    {
+      "nombre": "canal",
+      "tipo": "intermedia",
+      "codigo": "60214",
+      "conexiones": [
+        "L2"
+      ]
+    },
+    {
+      "nombre": "islas filipinas",
+      "tipo": "intermedia",
+      "codigo": "60714",
+      "conexiones": []
+    },
+    {
+      "nombre": "guzman el bueno",
+      "tipo": "intermedia",
+      "codigo": "60620",
+      "conexiones": [
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Fcos. Rodriguez",
+      "tipo": "intermedia",
+      "codigo": "60716",
+      "conexiones": []
+    },
+    {
+      "nombre": "valdezarza",
+      "tipo": "intermedia",
+      "codigo": "60717",
+      "conexiones": []
+    },
+    {
+      "nombre": "antonio machado",
+      "tipo": "intermedia",
+      "codigo": "60718",
+      "conexiones": []
+    },
+    {
+      "nombre": "Peña grande",
+      "tipo": "intermedia",
+      "codigo": "60719",
+      "conexiones": []
+    },
+    {
+      "nombre": "avda. ilustracion",
+      "tipo": "intermedia",
+      "codigo": "60720",
+      "conexiones": []
+    },
+    {
+      "nombre": "lacoma",
+      "tipo": "intermedia",
+      "codigo": "60721",
+      "conexiones": []
+    },
+    {
+      "nombre": "arroyo fresno",
+      "tipo": "intermedia",
+      "codigo": "60722",
+      "conexiones": []
+    },
+    {
+      "nombre": "pitis",
+      "tipo": "fin",
+      "codigo": "60723",
+      "conexiones": []
+    }
+  ],
+  "L8": [
+    {
+      "nombre": "Nuevos Ministerios",
+      "tipo": "cabecera",
+      "codigo": "70801",
+      "conexiones": [
+        "L6",
+        "L10"
+      ]
+    },
+    {
+      "nombre": "Colombia",
+      "tipo": "intermedia",
+      "codigo": "60802",
+      "conexiones": [
+        "L9"
+      ]
+    },
+    {
+      "nombre": "pinar",
+      "tipo": "intermedia",
+      "codigo": "60803",
+      "conexiones": []
+    },
+    {
+      "nombre": "mar",
+      "tipo": "intermedia",
+      "codigo": "60418",
+      "conexiones": [
+        "L4"
+      ]
+    },
+    {
+      "nombre": "Campo",
+      "tipo": "intermedia",
+      "codigo": "60805",
+      "conexiones": []
+    },
+    {
+      "nombre": "aeropuerto",
+      "tipo": "intermedia",
+      "codigo": "60806",
+      "conexiones": []
+    },
+    {
+      "nombre": "Barajas",
+      "tipo": "intermedia",
+      "codigo": "60807",
+      "conexiones": []
+    },
+    {
+      "nombre": "t4",
+      "tipo": "fin",
+      "codigo": "60808",
+      "conexiones": []
+    }
+  ],
+  "L9": [
+    {
+      "nombre": "Paco de Lucia",
+      "tipo": "cabecera",
+      "codigo": "",
+      "conexiones": []
+    },
+    {
+      "nombre": "Mirasierra",
+      "tipo": "intermedia",
+      "codigo": "",
+      "conexiones": []
+    },
+    {
+      "nombre": "Herrera oria",
+      "tipo": "intermedia",
+      "codigo": "60901",
+      "conexiones": []
+    },
+    {
+      "nombre": "bario el pilar",
+      "tipo": "intermedia",
+      "codigo": "60902",
+      "conexiones": []
+    },
+    {
+      "nombre": "Ventilla",
+      "tipo": "intermedia",
+      "codigo": "60903",
+      "conexiones": []
+    },
+    {
+      "nombre": "castilla",
+      "tipo": "intermedia",
+      "codigo": "70101",
+      "conexiones": [
+        "L1",
+        "L10"
+      ]
+    },
+    {
+      "nombre": "Pastrana",
+      "tipo": "intermedia",
+      "codigo": "60905",
+      "conexiones": []
+    },
+    {
+      "nombre": "pio xii",
+      "tipo": "intermedia",
+      "codigo": "60906",
+      "conexiones": []
+    },
+    {
+      "nombre": "Colombia",
+      "tipo": "intermedia",
+      "codigo": "60802",
+      "conexiones": [
+        "L8"
+      ]
+    },
+    {
+      "nombre": "concha espina",
+      "tipo": "intermedia",
+      "codigo": "60908",
+      "conexiones": []
+    },
+    {
+      "nombre": "Cruz del rayo",
+      "tipo": "intermedia",
+      "codigo": "60909",
+      "conexiones": []
+    },
+    {
+      "nombre": "america",
+      "tipo": "intermedia",
+      "codigo": "60411",
+      "conexiones": [
+        "L4",
+        "L6",
+        "L7"
+      ]
+    },
+    {
+      "nombre": "balboa",
+      "tipo": "intermedia",
+      "codigo": "60510",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "Vergara",
+      "tipo": "intermedia",
+      "codigo": "60204",
+      "conexiones": [
+        "L2"
+      ]
+    },
+    {
+      "nombre": "Ibiza",
+      "tipo": "intermedia",
+      "codigo": "60913",
+      "conexiones": []
+    },
+    {
+      "nombre": "baranda",
+      "tipo": "intermedia",
+      "codigo": "60612",
+      "conexiones": [
+        "L6"
+      ]
+    },
+    {
+      "nombre": "Estrella",
+      "tipo": "intermedia",
+      "codigo": "60915",
+      "conexiones": []
+    },
+    {
+      "nombre": "vinateros",
+      "tipo": "intermedia",
+      "codigo": "60916",
+      "conexiones": []
+    },
+    {
+      "nombre": "artilleros",
+      "tipo": "intermedia",
+      "codigo": "60917",
+      "conexiones": []
+    },
+    {
+      "nombre": "Pavones",
+      "tipo": "intermedia",
+      "codigo": "60918",
+      "conexiones": []
+    },
+    {
+      "nombre": "valdebernardo",
+      "tipo": "intermedia",
+      "codigo": "60919",
+      "conexiones": []
+    },
+    {
+      "nombre": "Vicalvaro",
+      "tipo": "intermedia",
+      "codigo": "60920",
+      "conexiones": []
+    },
+    {
+      "nombre": "san cipriano",
+      "tipo": "intermedia",
+      "codigo": "60921",
+      "conexiones": []
+    },
+    {
+      "nombre": "puerta",
+      "tipo": "bifurcacion_enlace",
+      "codigo": "60922",
+      "conexiones": []
+    },
+    {
+      "nombre": "urbanizaciones",
+      "tipo": "intermedia",
+      "codigo": "60924",
+      "conexiones": []
+    },
+    {
+      "nombre": "rivas",
+      "tipo": "intermedia",
+      "codigo": "60926",
+      "conexiones": []
+    },
+    {
+      "nombre": "la poveda",
+      "tipo": "intermedia",
+      "codigo": "60927",
+      "conexiones": []
+    },
+    {
+      "nombre": "arganda",
+      "tipo": "fin",
+      "codigo": "60928",
+      "conexiones": []
+    }
+  ],
+  "L10": [
+    {
+      "nombre": "hospital",
+      "tipo": "cabecera",
+      "codigo": "61061",
+      "conexiones": []
+    },
+    {
+      "nombre": "reyes catolicos",
+      "tipo": "intermedia",
+      "codigo": "61060",
+      "conexiones": []
+    },
+    {
+      "nombre": "Baunatal",
+      "tipo": "intermedia",
+      "codigo": "61059",
+      "conexiones": []
+    },
+    {
+      "nombre": "manuel de falla",
+      "tipo": "intermedia",
+      "codigo": "61058",
+      "conexiones": []
+    },
+    {
+      "nombre": "valdavia",
+      "tipo": "intermedia",
+      "codigo": "61057",
+      "conexiones": []
+    },
+    {
+      "nombre": "la moraleja",
+      "tipo": "intermedia",
+      "codigo": "61056",
+      "conexiones": []
+    },
+    {
+      "nombre": "La granja",
+      "tipo": "intermedia",
+      "codigo": "61055",
+      "conexiones": []
+    },
+    {
+      "nombre": "ronda",
+      "tipo": "intermedia",
+      "codigo": "61054",
+      "conexiones": []
+    },
+    {
+      "nombre": "Las tablas",
+      "tipo": "intermedia",
+      "codigo": "61053",
+      "conexiones": [
+        "ML"
+      ]
+    },
+    {
+      "nombre": "monte carmelo",
+      "tipo": "intermedia",
+      "codigo": "61052",
+      "conexiones": []
+    },
+    {
+      "nombre": "3 olivos",
+      "tipo": "bifurcacion_enlace",
+      "codigo": "61051",
+      "conexiones": []
+    },
+    {
+      "nombre": "fuencarral",
+      "tipo": "intermedia",
+      "codigo": "61001",
+      "conexiones": []
+    },
+    {
+      "nombre": "begoña",
+      "tipo": "intermedia",
+      "codigo": "61002",
+      "conexiones": []
+    },
+    {
+      "nombre": "Chamartin",
+      "tipo": "intermedia",
+      "codigo": "61003",
+      "conexiones": [
+        "L1"
+      ]
+    },
+    {
+      "nombre": "castilla",
+      "tipo": "intermedia",
+      "codigo": "70101",
+      "conexiones": [
+        "L1",
+        "L9"
+      ]
+    },
+    {
+      "nombre": "Cuzco",
+      "tipo": "intermedia",
+      "codigo": "61005",
+      "conexiones": []
+    },
+    {
+      "nombre": "bernabéu",
+      "tipo": "intermedia",
+      "codigo": "61006",
+      "conexiones": []
+    },
+    {
+      "nombre": "ministerios",
+      "tipo": "intermedia",
+      "codigo": "70801",
+      "conexiones": [
+        "L6",
+        "L8"
+      ]
+    },
+    {
+      "nombre": "Marañon",
+      "tipo": "intermedia",
+      "codigo": "60711",
+      "conexiones": [
+        "L7"
+      ]
+    },
+    {
+      "nombre": "alonso martinez",
+      "tipo": "intermedia",
+      "codigo": "60404",
+      "conexiones": [
+        "L4",
+        "L5"
+      ]
+    },
+    {
+      "nombre": "tribunal",
+      "tipo": "intermedia",
+      "codigo": "60110",
+      "conexiones": [
+        "L1"
+      ]
+    },
+    {
+      "nombre": "pza. españa",
+      "tipo": "intermedia",
+      "codigo": "60308",
+      "conexiones": [
+        "L3"
+      ]
+    },
+    {
+      "nombre": "P. Pio",
+      "tipo": "intermedia",
+      "codigo": "60625",
+      "conexiones": [
+        "L6",
+        "RAMAL"
+      ]
+    },
+    {
+      "nombre": "lago",
+      "tipo": "intermedia",
+      "codigo": "61013",
+      "conexiones": []
+    },
+    {
+      "nombre": "Batan",
+      "tipo": "intermedia",
+      "codigo": "61014",
+      "conexiones": []
+    },
+    {
+      "nombre": "c. campo",
+      "tipo": "intermedia",
+      "codigo": "60530",
+      "conexiones": [
+        "L5"
+      ]
+    },
+    {
+      "nombre": "Colonia jardin",
+      "tipo": "intermedia",
+      "codigo": "61016",
+      "conexiones": [
+        "ML"
+      ]
+    },
+    {
+      "nombre": "aviacion",
+      "tipo": "intermedia",
+      "codigo": "61018",
+      "conexiones": []
+    },
+    {
+      "nombre": "Cuatro vientos",
+      "tipo": "intermedia",
+      "codigo": "61019",
+      "conexiones": []
+    },
+    {
+      "nombre": "vilumbrales",
+      "tipo": "intermedia",
+      "codigo": "61020",
+      "conexiones": []
+    },
+    {
+      "nombre": "puerta",
+      "tipo": "fin",
+      "codigo": "61021",
+      "conexiones": [
+        "L12"
+      ]
+    }
+  ],
+  "L11": [
+    {
+      "nombre": "eliptica",
+      "tipo": "cabecera",
+      "codigo": "60605",
+      "conexiones": [
+        "L6"
+      ]
+    },
+    {
+      "nombre": "abrantes",
+      "tipo": "intermedia",
+      "codigo": "61102",
+      "conexiones": []
+    },
+    {
+      "nombre": "pan bendito",
+      "tipo": "intermedia",
+      "codigo": "61103",
+      "conexiones": []
+    },
+    {
+      "nombre": "san francisco",
+      "tipo": "intermedia",
+      "codigo": "61104",
+      "conexiones": []
+    },
+    {
+      "nombre": "carabanchel",
+      "tipo": "intermedia",
+      "codigo": "61105",
+      "conexiones": []
+    },
+    {
+      "nombre": "la peseta",
+      "tipo": "intermedia",
+      "codigo": "61106",
+      "conexiones": []
+    },
+    {
+      "nombre": "la fortuna",
+      "tipo": "fin",
+      "codigo": "61107",
+      "conexiones": []
+    }
+  ],
+  "L12": [
+    {
+      "nombre": "loranca",
+      "tipo": "cabecera",
+      "codigo": "61210",
+      "conexiones": []
+    },
+    {
+      "nombre": "hospi. Fuenla",
+      "tipo": "intermedia",
+      "codigo": "61212",
+      "conexiones": []
+    },
+    {
+      "nombre": "parque europa",
+      "tipo": "intermedia",
+      "codigo": "61213",
+      "conexiones": []
+    },
+    {
+      "nombre": "Fuenlabrada",
+      "tipo": "intermedia",
+      "codigo": "61214",
+      "conexiones": []
+    },
+    {
+      "nombre": "Pq de los estados",
+      "tipo": "intermedia",
+      "codigo": "61215",
+      "conexiones": []
+    },
+    {
+      "nombre": "Arroyo culebro",
+      "tipo": "intermedia",
+      "codigo": "61217",
+      "conexiones": []
+    },
+    {
+      "nombre": "conservatorio",
+      "tipo": "intermedia",
+      "codigo": "61218",
+      "conexiones": []
+    },
+    {
+      "nombre": "alonso de mendoza",
+      "tipo": "intermedia",
+      "codigo": "61219",
+      "conexiones": []
+    },
+    {
+      "nombre": "Getafe cntrl",
+      "tipo": "intermedia",
+      "codigo": "61220",
+      "conexiones": []
+    },
+    {
+      "nombre": "juan de la cierva",
+      "tipo": "intermedia",
+      "codigo": "61221",
+      "conexiones": []
+    },
+    {
+      "nombre": "el casar",
+      "tipo": "intermedia",
+      "codigo": "61222",
+      "conexiones": []
+    },
+    {
+      "nombre": "los espartales",
+      "tipo": "intermedia",
+      "codigo": "61223",
+      "conexiones": []
+    },
+    {
+      "nombre": "El Bercial",
+      "tipo": "intermedia",
+      "codigo": "61224",
+      "conexiones": []
+    },
+    {
+      "nombre": "El Carrascal",
+      "tipo": "intermedia",
+      "codigo": "61225",
+      "conexiones": []
+    },
+    {
+      "nombre": "julian besteiro",
+      "tipo": "intermedia",
+      "codigo": "61226",
+      "conexiones": []
+    },
+    {
+      "nombre": "casa del reloj",
+      "tipo": "intermedia",
+      "codigo": "61227",
+      "conexiones": []
+    },
+    {
+      "nombre": "H Severo Ochoa",
+      "tipo": "intermedia",
+      "codigo": "61228",
+      "conexiones": []
+    },
+    {
+      "nombre": "Leganes cntrl",
+      "tipo": "intermedia",
+      "codigo": "61229",
+      "conexiones": []
+    },
+    {
+      "nombre": "San Nicasio",
+      "tipo": "intermedia",
+      "codigo": "61230",
+      "conexiones": []
+    },
+    {
+      "nombre": "Puerta del Sur",
+      "tipo": "intermedia",
+      "codigo": "61201",
+      "conexiones": [
+        "L10"
+      ]
+    },
+    {
+      "nombre": "pq. Lisboa",
+      "tipo": "intermedia",
+      "codigo": "61202",
+      "conexiones": []
+    },
+    {
+      "nombre": "alcorcon",
+      "tipo": "intermedia",
+      "codigo": "61203",
+      "conexiones": []
+    },
+    {
+      "nombre": "pq. Oeste",
+      "tipo": "intermedia",
+      "codigo": "61204",
+      "conexiones": []
+    },
+    {
+      "nombre": "Univ. Rey j. Carlos",
+      "tipo": "intermedia",
+      "codigo": "61205",
+      "conexiones": []
+    },
+    {
+      "nombre": "Mostoles cntrl",
+      "tipo": "intermedia",
+      "codigo": "61206",
+      "conexiones": []
+    },
+    {
+      "nombre": "pradillo",
+      "tipo": "intermedia",
+      "codigo": "61207",
+      "conexiones": []
+    },
+    {
+      "nombre": "H de Mostoles",
+      "tipo": "intermedia",
+      "codigo": "61208",
+      "conexiones": []
+    },
+    {
+      "nombre": "manuela malasaña",
+      "tipo": "fin",
+      "codigo": "61209",
+      "conexiones": []
+    }
+  ],
+  "LR": [
+    {
+      "nombre": "pio",
+      "tipo": "cabecera",
+      "codigo": "60625",
+      "conexiones": [
+        "L2",
+        "L5"
+      ]
+    },
+    {
+      "nombre": "pio",
+      "tipo": "fin",
+      "codigo": "60209",
+      "conexiones": [
+        "L6",
+        "L10"
+      ]
+    }
+  ],
+  "ML": [
+    {
+      "nombre": "pinar",
+      "tipo": "cabecera",
+      "codigo": "60153",
+      "conexiones": [
+        "L1",
+        "L4"
+      ]
+    },
+    {
+      "nombre": "Fuente de la mora",
+      "tipo": "intermedia",
+      "codigo": "65112",
+      "conexiones": []
+    },
+    {
+      "nombre": "Virgen del cortijo",
+      "tipo": "intermedia",
+      "codigo": "65113",
+      "conexiones": []
+    },
+    {
+      "nombre": "Blasco Ibañez",
+      "tipo": "intermedia",
+      "codigo": "65116",
+      "conexiones": []
+    },
+    {
+      "nombre": "maria tudor",
+      "tipo": "fin",
+      "codigo": "65117",
+      "conexiones": []
+    }
+  ]
+}
