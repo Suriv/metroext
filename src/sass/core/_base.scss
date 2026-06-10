@@ -18,7 +18,7 @@ body {
 }
 
 body{
-  background: var(--color-m-black);
+  background: var(--color-m-900);
   color: var(--color-m-white)
 }
 
@@ -39,7 +39,7 @@ a{
   }
 }
 
-svg{
-    display:inline-block;
-    cursor:pointer;
+
+summary{
+  cursor:pointer;
 }

@@ -15,10 +15,24 @@
   }
   &__item {
     display: block;
-    width: 25%;
-    height: 25%;
+    width: 15vw;
+
+    a {
+      display: block;
+    }
+    .icon {
+      font-size: 15vw;
+    }
   }
   @include mixins.tablet {
     padding: 2.4rem 0;
+
+    &__item {
+      width: 10rem;
+      height: 10rem;
+      .icon {
+        font-size: 10rem;
+      }
+    }
   }
 }

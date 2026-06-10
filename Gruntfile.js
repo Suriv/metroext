@@ -85,18 +85,21 @@ module.exports = grunt => {
         },
 
         watch: {
-           
+            options: {
+              livereload: true,
+              debounceDelay: 1000
+            },
             gruntfile: {files: ['Gruntfile.js'], tasks: ['default']},
-            sass: { files: ["src/sass/**/*.scss"], tasks: ["sass"] },
+            sass: { files: ["src/sass/**/*.scss"], tasks: ["sass"],options: {
+                spawn: false,
+                debounceDelay: 2000
+            } },
             jsCore: {files: ['src/js/core/**.js'], tasks: ['clean:folderJsCore','uglify:srcjs']},
             jsLib: {files: ['src/js/lib/**.js'], tasks: ['clean:folderJsLib','copy::jsLib']},
             libassets: {files: ['src/assets/**/*'], tasks: ['clean:folderAssets','copy:libassets']},
             htmlComponent: {files: ['src/html/**'], tasks: ['clean:folderhtm','copy:htmlComponent']},
             txtComponent: {files: ['src/txt/**'], tasks: ['clean:foldertxt','copy:txtComponent']},
-            jsonFolder: {files: ['src/json/**'], tasks: ['clean:folderJson','copy:json']},
-             options: {
-              livereload: true,
-            },
+            jsonFolder: {files: ['src/json/**'], tasks: ['clean:folderJson','copy:json']}
         }
     });
 

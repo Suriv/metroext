@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+@use '../core/mixins';
+
+.station-card {
+  &__header {
+    display: flex;
+    align-items: center;
+     flex-wrap: wrap;
+    gap: 1rem;
+    &::marker {
+      content: '';
+    }
+    &--title {
+      font-size: 2rem;
+    }
+    &--connect {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      span {
+        font-size: 2rem;
+      }
+    }
+  }
+
+  &__content {
+    margin: 1rem 0 0 0;
+    background: var(--color-m-black);
+    padding: 1.6rem;
+    border-radius: 1rem;
+    border: 0.1rem solid var(--color-m-grey);
+
+    &--item {
+      font-size: 1.8rem;
+      font-weight: bold;
+    }
+  }
+}

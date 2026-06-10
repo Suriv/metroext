@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+@use '../core/mixins';
+
+.stations {
+  &__container {
+    position: relative;
+    padding-left: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6rem;
+    &::before {
+      content: '';
+      display: block;
+      width: 1rem;
+      height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background: var(--color-ln-01);
+    }
+  }
+
+  &__item {
+    width: 100%;
+    position: relative;
+
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0.8rem;
+      left: -4rem;
+      width: 3rem;
+      border-radius: 1.5rem;
+      height: 1rem;
+      background: var(--color-ln-01);
+    }
+
+    &.connect {
+      &::before {
+        height: 2.4rem;
+        width: 2.4rem;
+        background-color: #fff;
+        border-radius: 100%;
+        border: 0.5rem solid var(--color-ln-01);
+        left: -5.2rem;
+        top: -1rem;
+      }
+    }
+    &:last-child {
+      &::before {
+        top: 1.4rem;
+      }
+    }
+  }
+}
