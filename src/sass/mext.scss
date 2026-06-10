@@ -10,11 +10,12 @@
 @use "core/base";
 
 // components
+@use "components/header";
 @use "components/lines_list";
 @use "components/lines_stations";
 @use "components/line-card";
 @use "components/stations";
 @use "components/station-card";
-@use "components/footer";
+
 
 

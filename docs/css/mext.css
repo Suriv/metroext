@@ -191,6 +191,18 @@ summary {
   cursor: pointer;
 }
 
+header {
+  padding: 2.4rem 0;
+}
+header a {
+  margin: 0 auto;
+  width: 20rem;
+  display: block;
+}
+header a img {
+  width: 100%;
+}
+
 .lines_list {
   padding: 2.4rem 1.6rem;
 }
@@ -334,13 +346,13 @@ summary {
   background: var(--color-ln-09);
 }
 .l10 .stations__container::before {
-  background: var(--color-ln-010);
+  background: var(--color-ln-10);
 }
 .l11 .stations__container::before {
-  background: var(--color-ln-011);
+  background: var(--color-ln-11);
 }
 .l12 .stations__container::before {
-  background: var(--color-ln-012);
+  background: var(--color-ln-12);
 }
 .lr .stations__container::before {
   background: var(--color-ln-lr);
@@ -390,13 +402,13 @@ summary {
   background: var(--color-ln-09);
 }
 .l10 .stations__item::before {
-  background: var(--color-ln-010);
+  background: var(--color-ln-10);
 }
 .l11 .stations__item::before {
-  background: var(--color-ln-011);
+  background: var(--color-ln-11);
 }
 .l12 .stations__item::before {
-  background: var(--color-ln-012);
+  background: var(--color-ln-12);
 }
 .lr .stations__item::before {
   background: var(--color-ln-lr);
@@ -442,13 +454,13 @@ summary {
   border-color: var(--color-ln-09);
 }
 .l10 .stations__item.connect::before {
-  border-color: var(--color-ln-010);
+  border-color: var(--color-ln-10);
 }
 .l11 .stations__item.connect::before {
-  border-color: var(--color-ln-011);
+  border-color: var(--color-ln-11);
 }
 .l12 .stations__item.connect::before {
-  border-color: var(--color-ln-012);
+  border-color: var(--color-ln-12);
 }
 .lr .stations__item.connect::before {
   border-color: var(--color-ln-lr);
@@ -490,21 +502,4 @@ summary {
 .station-card__content--item {
   font-size: 1.8rem;
   font-weight: bold;
-}
-
-footer {
-  position: relative;
-  display: block;
-  width: var(--hundred);
-  min-height: 3rem;
-  height: auto;
-  text-align: center;
-  font-size: 1.6rem;
-  line-height: 3rem;
-  font-weight: 200;
-}
-@media (width > 768px) {
-  footer {
-    background: aquamarine;
-  }
 }

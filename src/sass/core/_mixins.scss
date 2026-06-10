@@ -1,23 +1,14 @@
+$tablet: 768px; // Tablet portrait minimum
+$desktop: 992px; // Laptop+Desktop minimum
+$large-desktop: 1280px; // Large screen minimum
 
-  $tablet: 768px; // Tablet portrait minimum
-  $desktop: 992px; // Laptop+Desktop minimum
-  $large-desktop: 1280px; // Large screen minimum
-
-@mixin disabled{
-	cursor:default;
-    pointer-events: none;
-    user-select: none;
-    opacity:.2;
+@mixin disabled {
+  cursor: default;
+  pointer-events: none;
+  user-select: none;
+  opacity: .2;
 }
 
-@mixin svg($img,$position:0 0,$color:transparent,$repeat: no-repeat) {
-    background: {
-    	color: $color;
-      image: url("../assets/svg/"+$img+".svg"), none;
-      position: $position;
-      repeat: $repeat;
-    }
-}
 
 @mixin tablet {
   @media (width > #{$tablet}) {
@@ -39,10 +30,12 @@
 
 @mixin line-bg($lines: (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), $extras: ('lr', 'ml')) {
   @each $n in $lines {
+    $suffix: if(sass($n < 10): "0#{$n}"; else: "#{$n}");
     .l#{$n} & {
-      background: var(--color-ln-0#{$n});
+      background: var(--color-ln-#{$suffix});
     }
   }
+
   @each $name in $extras {
     .#{$name} & {
       background: var(--color-ln-#{$name});
@@ -52,10 +45,12 @@
 
 @mixin line-border($lines: (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12), $extras: ('lr', 'ml')) {
   @each $n in $lines {
+    $suffix: if(sass($n < 10): "0#{$n}"; else: "#{$n}");
     .l#{$n} & {
-      border-color: var(--color-ln-0#{$n});
+      border-color: var(--color-ln-#{$suffix});
     }
   }
+
   @each $name in $extras {
     .#{$name} & {
       border-color: var(--color-ln-#{$name});
