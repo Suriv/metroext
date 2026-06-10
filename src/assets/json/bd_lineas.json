@@ -1,0 +1,522 @@
+{
+  "L1": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Pinar de Chamartin",
+          "telefono": "27014"
+        },
+        {
+          "nombre": "Valdecarros",
+          "telefono": "27013"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de conductores",
+      "contactos": [
+        {
+          "nombre": "Pinar de Chamartin",
+          "telefono": "27010"
+        },
+        {
+          "nombre": "Valdecarros",
+          "telefono": "27012"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Linea 1",
+          "telefono": "22121"
+        }
+      ]
+    }
+  ],
+  "L2": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Las Rosas",
+          "telefono": "39216"
+        },
+        {
+          "nombre": "4 Caminos",
+          "telefono": "27025"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Las Rosas",
+          "telefono": "27020"
+        },
+        {
+          "nombre": "4 Caminos",
+          "telefono": "27021"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 2",
+          "telefono": "22122"
+        }
+      ]
+    }
+  ],
+  "L3": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Villaverde Alto",
+          "telefono": "27035"
+        },
+        {
+          "nombre": "Moncloa",
+          "telefono": "27034"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Villaverde Alto",
+          "telefono": "27030"
+        },
+        {
+          "nombre": "Moncloa",
+          "telefono": "27031"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 3",
+          "telefono": "22132"
+        }
+      ]
+    }
+  ],
+  "L4": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Pinar de Chamartin",
+          "telefono": "27041"
+        },
+        {
+          "nombre": "Argüelles",
+          "telefono": "20401"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Pinar de Chamartin",
+          "telefono": "27041"
+        },
+        {
+          "nombre": "Argüelles",
+          "telefono": "27040"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 4",
+          "telefono": "22124"
+        }
+      ]
+    }
+  ],
+  "L5": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Alameda de Osuna",
+          "telefono": "27054"
+        },
+        {
+          "nombre": "Casa de Campo",
+          "telefono": "20530"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Alameda de Osuna",
+          "telefono": "27050"
+        },
+        {
+          "nombre": "Casa de Campo",
+          "telefono": "27051"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 5",
+          "telefono": "22125"
+        }
+      ]
+    }
+  ],
+  "L6": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Laguna",
+          "telefono": "27064"
+        },
+        {
+          "nombre": "C. Universitaria",
+          "telefono": "20622"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Laguna",
+          "telefono": "27060"
+        },
+        {
+          "nombre": "C. Universitaria",
+          "telefono": "27061"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 6",
+          "telefono": "22126"
+        }
+      ]
+    }
+  ],
+  "L7": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Estadio Olimpico (A)",
+          "telefono": "27074"
+        },
+        {
+          "nombre": "Pitis / La coma (A)",
+          "telefono": "27075"
+        },
+        {
+          "nombre": "Estadio Olimpico (B)",
+          "telefono": "27077"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Estadio Olimpico (A)",
+          "telefono": "27070"
+        },
+        {
+          "nombre": "Pitis / La coma (A)",
+          "telefono": "27071"
+        },
+        {
+          "nombre": "Pitis / La coma (A)",
+          "telefono": "20721"
+        },
+        {
+          "nombre": "Estadio Olimpico (B)",
+          "telefono": "27073"
+        },
+        {
+          "nombre": "Hospital del Henares (B)",
+          "telefono": "27076"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 7 (A y B)",
+          "telefono": "22127"
+        }
+      ]
+    }
+  ],
+  "L8": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "N. Ministerios",
+          "telefono": "27080"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "N. Ministerios",
+          "telefono": "27080"
+        },
+        {
+          "nombre": "Terminal 4",
+          "telefono": "27081"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 8",
+          "telefono": "22128"
+        }
+      ]
+    },
+    {
+      "seccion": "Jefe de Línea",
+      "contactos": [
+        {
+          "nombre": "Movil (Relevos S)",
+          "telefono": "60526"
+        },
+        {
+          "nombre": "Tel Interior",
+          "telefono": "30238"
+        }
+      ]
+    }
+  ],
+  "L9": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Paco de Lucia (A)",
+          "telefono": "60952"
+        },
+        {
+          "nombre": "Pta. Arganda (A y B)",
+          "telefono": "29094"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Mirasierra (A)",
+          "telefono": "27090"
+        },
+        {
+          "nombre": "Pta. Arganda (A)",
+          "telefono": "27096"
+        },
+        {
+          "nombre": "Arganda del Rey (B)",
+          "telefono": "27093"
+        },
+        {
+          "nombre": "Pta. Arganda (B)",
+          "telefono": "27092"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 9 (A y B)",
+          "telefono": "22129"
+        }
+      ]
+    }
+  ],
+  "L10": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Tres Olivos (A)",
+          "telefono": "27109"
+        },
+        {
+          "nombre": "Puerta del Sur  (A)",
+          "telefono": "21021"
+        },
+        {
+          "nombre": "Tres Olivos (B)",
+          "telefono": "27106"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Tres Olivos (A)",
+          "telefono": "27100"
+        },
+        {
+          "nombre": "Puerta del Sur  (A)",
+          "telefono": "27103"
+        },
+        {
+          "nombre": "Tres Olivos (B)",
+          "telefono": "27106"
+        },
+        {
+          "nombre": "Hospital Infanta Sofia (B)",
+          "telefono": "27107"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 10 (A y B)",
+          "telefono": "22130"
+        }
+      ]
+    }
+  ],
+  "L11": [
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Plz. Elíptica",
+          "telefono": "27110"
+        },
+        {
+          "nombre": "La Fortuna",
+          "telefono": "27111"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 11",
+          "telefono": "22131"
+        }
+      ]
+    }
+  ],
+  "L12": [
+    {
+      "seccion": "Técnico de Línea",
+      "contactos": [
+        {
+          "nombre": "Loranca Movil",
+          "telefono": "30351"
+        },
+        {
+          "nombre": "Loranca",
+          "telefono": "21210"
+        },
+        {
+          "nombre": "Jefe de Línea",
+          "telefono": "30350"
+        }
+      ]
+    },
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Loranca Vía 1",
+          "telefono": "27121"
+        },
+        {
+          "nombre": "Loranca Vía 2",
+          "telefono": "27122"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 12",
+          "telefono": "22132"
+        }
+      ]
+    }
+  ],
+  "LR": [
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Principe Pío",
+          "telefono": "27001"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea 2 y Ramal",
+          "telefono": "22122"
+        }
+      ]
+    }
+  ],
+  "ML": [
+    {
+      "seccion": "Cuarto de Conductores",
+      "contactos": [
+        {
+          "nombre": "Pinar de Chamartín",
+          "telefono": "27511"
+        }
+      ]
+    },
+    {
+      "seccion": "Inspector P.M",
+      "contactos": [
+        {
+          "nombre": "Línea ML",
+          "telefono": "22114"
+        }
+      ]
+    }
+  ]
+}
