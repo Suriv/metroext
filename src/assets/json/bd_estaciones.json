@@ -151,13 +151,13 @@
     {
       "nombre": "Puente de Vallecas",
       "tipo": "intermedia",
-      "codigo": "60118",
+      "codigo": "60119",
       "conexiones": []
     },
     {
-      "nombre": "Numancia",
+      "nombre": "Nueva Numancia",
       "tipo": "intermedia",
-      "codigo": "60119",
+      "codigo": "60120",
       "conexiones": []
     },
     {
@@ -504,7 +504,7 @@
   ],
   "L4": [
     {
-      "nombre": "argüelles",
+      "nombre": "Argüelles",
       "tipo": "cabecera",
       "codigo": "60310",
       "conexiones": [
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "nombre": "san bernardo",
+      "nombre": "San Bernardo",
       "tipo": "intermedia",
       "codigo": "60212",
       "conexiones": [
@@ -529,7 +529,7 @@
       ]
     },
     {
-      "nombre": "alonso martinez",
+      "nombre": "Alonso Martínez",
       "tipo": "intermedia",
       "codigo": "60404",
       "conexiones": [
@@ -538,7 +538,7 @@
       ]
     },
     {
-      "nombre": "Colon",
+      "nombre": "Colón",
       "tipo": "intermedia",
       "codigo": "60405",
       "conexiones": []
@@ -556,7 +556,7 @@
       "conexiones": []
     },
     {
-      "nombre": "goya",
+      "nombre": "Goya",
       "tipo": "intermedia",
       "codigo": "60203",
       "conexiones": [
@@ -570,7 +570,7 @@
       "conexiones": []
     },
     {
-      "nombre": "Diego",
+      "nombre": "Diego de León",
       "tipo": "intermedia",
       "codigo": "60410",
       "conexiones": [
@@ -579,7 +579,7 @@
       ]
     },
     {
-      "nombre": "Avda. america",
+      "nombre": "Avenida de América",
       "tipo": "intermedia",
       "codigo": "60411",
       "conexiones": [
@@ -589,31 +589,31 @@
       ]
     },
     {
-      "nombre": "prosperidad",
+      "nombre": "Prosperidad",
       "tipo": "intermedia",
       "codigo": "60412",
       "conexiones": []
     },
     {
-      "nombre": "alfonso xiii",
+      "nombre": "Alfonso XIII",
       "tipo": "intermedia",
       "codigo": "60413",
       "conexiones": []
     },
     {
-      "nombre": "Avda. La paz",
+      "nombre": "Avenida de la Paz",
       "tipo": "intermedia",
       "codigo": "60414",
       "conexiones": []
     },
     {
-      "nombre": "arturo soria",
+      "nombre": "Arturo Soria",
       "tipo": "intermedia",
       "codigo": "60415",
       "conexiones": []
     },
     {
-      "nombre": "esperanza",
+      "nombre": "Esperanza",
       "tipo": "intermedia",
       "codigo": "60416",
       "conexiones": []
@@ -625,7 +625,7 @@
       "conexiones": []
     },
     {
-      "nombre": "mar",
+      "nombre": "Mar de Cristal",
       "tipo": "intermedia",
       "codigo": "60418",
       "conexiones": [
@@ -639,7 +639,7 @@
       "conexiones": []
     },
     {
-      "nombre": "Parque Sta. Maria",
+      "nombre": "Parque de Santa María",
       "tipo": "intermedia",
       "codigo": "60420",
       "conexiones": []
@@ -651,13 +651,13 @@
       "conexiones": []
     },
     {
-      "nombre": "manoteras",
+      "nombre": "Manoteras",
       "tipo": "intermedia",
       "codigo": "60422",
       "conexiones": []
     },
     {
-      "nombre": "pinar",
+      "nombre": "Pinar de Chamartín",
       "tipo": "fin",
       "codigo": "60153",
       "conexiones": [
@@ -668,13 +668,13 @@
   ],
   "L5": [
     {
-      "nombre": "alameda",
+      "nombre": "Alameda de Osuna",
       "tipo": "cabecera",
       "codigo": "60552",
       "conexiones": []
     },
     {
-      "nombre": "el capricho",
+      "nombre": "El Capricho",
       "tipo": "intermedia",
       "codigo": "60551",
       "conexiones": []
@@ -686,25 +686,25 @@
       "conexiones": []
     },
     {
-      "nombre": "torre arias",
+      "nombre": "Torre Arias",
       "tipo": "intermedia",
       "codigo": "60502",
       "conexiones": []
     },
     {
-      "nombre": "suances",
+      "nombre": "Suances",
       "tipo": "intermedia",
       "codigo": "60503",
       "conexiones": []
     },
     {
-      "nombre": "Ciudad lineal",
+      "nombre": "Ciudad Lineal",
       "tipo": "intermedia",
       "codigo": "60504",
       "conexiones": []
     },
     {
-      "nombre": "pueblo",
+      "nombre": "Pueblo Nuevo",
       "tipo": "intermedia",
       "codigo": "60505",
       "conexiones": [
@@ -712,13 +712,13 @@
       ]
     },
     {
-      "nombre": "quintana",
+      "nombre": "Quintana",
       "tipo": "intermedia",
       "codigo": "60506",
       "conexiones": []
     },
     {
-      "nombre": "el carmen",
+      "nombre": "El Carmen",
       "tipo": "intermedia",
       "codigo": "60507",
       "conexiones": []
@@ -732,7 +732,7 @@
       ]
     },
     {
-      "nombre": "diego",
+      "nombre": "Diego de León",
       "tipo": "intermedia",
       "codigo": "60509",
       "conexiones": [
@@ -741,7 +741,7 @@
       ]
     },
     {
-      "nombre": "Nuñez",
+      "nombre": "Nuñez de Balboa",
       "tipo": "intermedia",
       "codigo": "60510",
       "conexiones": [
@@ -749,13 +749,13 @@
       ]
     },
     {
-      "nombre": "ruben dario",
+      "nombre": "Ruben Dario",
       "tipo": "intermedia",
       "codigo": "60511",
       "conexiones": []
     },
     {
-      "nombre": "alonso",
+      "nombre": "Alonso Martínez",
       "tipo": "intermedia",
       "codigo": "60404",
       "conexiones": [
@@ -764,7 +764,7 @@
       ]
     },
     {
-      "nombre": "chueca",
+      "nombre": "Chueca",
       "tipo": "intermedia",
       "codigo": "60513",
       "conexiones": []
@@ -778,7 +778,7 @@
       ]
     },
     {
-      "nombre": "callao",
+      "nombre": "Callao",
       "tipo": "intermedia",
       "codigo": "60307",
       "conexiones": [
@@ -786,7 +786,7 @@
       ]
     },
     {
-      "nombre": "opera",
+      "nombre": "Ópera",
       "tipo": "intermedia",
       "codigo": "60209",
       "conexiones": [
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "nombre": "Latina",
+      "nombre": "La Latina",
       "tipo": "intermedia",
       "codigo": "60517",
       "conexiones": [
@@ -803,13 +803,13 @@
       ]
     },
     {
-      "nombre": "pta. Toledo",
+      "nombre": "Puerta de Toledo",
       "tipo": "intermedia",
       "codigo": "60518",
       "conexiones": []
     },
     {
-      "nombre": "acacias",
+      "nombre": "Acacias",
       "tipo": "intermedia",
       "codigo": "60519",
       "conexiones": [
@@ -817,25 +817,25 @@
       ]
     },
     {
-      "nombre": "piramides",
+      "nombre": "Pirámides",
       "tipo": "intermedia",
       "codigo": "60520",
       "conexiones": []
     },
     {
-      "nombre": "Vadillo",
+      "nombre": "Marques de Vadillo",
       "tipo": "intermedia",
       "codigo": "60521",
       "conexiones": []
     },
     {
-      "nombre": "urgel",
+      "nombre": "Urgel",
       "tipo": "intermedia",
       "codigo": "60522",
       "conexiones": []
     },
     {
-      "nombre": "oporto",
+      "nombre": "Oporto",
       "tipo": "intermedia",
       "codigo": "60523",
       "conexiones": [
@@ -855,7 +855,7 @@
       "conexiones": []
     },
     {
-      "nombre": "eugenia",
+      "nombre": "Eugenia de Montijo",
       "tipo": "intermedia",
       "codigo": "60526",
       "conexiones": []
@@ -867,19 +867,19 @@
       "conexiones": []
     },
     {
-      "nombre": "empalme",
+      "nombre": "Empalme",
       "tipo": "intermedia",
       "codigo": "60528",
       "conexiones": []
     },
     {
-      "nombre": "campamento",
+      "nombre": "Campamento",
       "tipo": "intermedia",
       "codigo": "60529",
       "conexiones": []
     },
     {
-      "nombre": "c.campo",
+      "nombre": "Casa de Campo",
       "tipo": "fin",
       "codigo": "60530",
       "conexiones": [
@@ -1010,7 +1010,7 @@
       "conexiones": []
     },
     {
-      "nombre": "ministerios",
+      "nombre": "Nuevos Ministerios",
       "tipo": "intermedia",
       "codigo": "70618",
       "conexiones": [
@@ -1172,7 +1172,7 @@
       "conexiones": []
     },
     {
-      "nombre": "pueblo nuevo",
+      "nombre": "Pueblo Nuevo",
       "tipo": "intermedia",
       "codigo": "60505",
       "conexiones": [
@@ -1296,7 +1296,7 @@
     {
       "nombre": "Nuevos Ministerios",
       "tipo": "cabecera",
-      "codigo": "70801",
+      "codigo": "60618",
       "conexiones": [
         "L6",
         "L10"
@@ -1645,9 +1645,9 @@
       "conexiones": []
     },
     {
-      "nombre": "ministerios",
+      "nombre": "Nuevos Ministerios",
       "tipo": "intermedia",
-      "codigo": "70801",
+      "codigo": "61007",
       "conexiones": [
         "L6",
         "L8"
@@ -1798,73 +1798,73 @@
   ],
   "L12": [
     {
-      "nombre": "loranca",
+      "nombre": "Loranca",
       "tipo": "cabecera",
       "codigo": "61210",
       "conexiones": []
     },
     {
-      "nombre": "hospi. Fuenla",
+      "nombre": "Hospital de Fuenlabrada",
       "tipo": "intermedia",
       "codigo": "61212",
       "conexiones": []
     },
     {
-      "nombre": "parque europa",
+      "nombre": "Parque Europa",
       "tipo": "intermedia",
       "codigo": "61213",
       "conexiones": []
     },
     {
-      "nombre": "Fuenlabrada",
+      "nombre": "Fuenlabrada Central",
       "tipo": "intermedia",
       "codigo": "61214",
       "conexiones": []
     },
     {
-      "nombre": "Pq de los estados",
+      "nombre": "Parque de los Estados",
       "tipo": "intermedia",
       "codigo": "61215",
       "conexiones": []
     },
     {
-      "nombre": "Arroyo culebro",
+      "nombre": "Arroyo Culebro",
       "tipo": "intermedia",
       "codigo": "61217",
       "conexiones": []
     },
     {
-      "nombre": "conservatorio",
+      "nombre": "Conservatorio",
       "tipo": "intermedia",
       "codigo": "61218",
       "conexiones": []
     },
     {
-      "nombre": "alonso de mendoza",
+      "nombre": "Alonso de Mendoza",
       "tipo": "intermedia",
       "codigo": "61219",
       "conexiones": []
     },
     {
-      "nombre": "Getafe cntrl",
+      "nombre": "Getafe Central",
       "tipo": "intermedia",
       "codigo": "61220",
       "conexiones": []
     },
     {
-      "nombre": "juan de la cierva",
+      "nombre": "Juan de la Cierva",
       "tipo": "intermedia",
       "codigo": "61221",
       "conexiones": []
     },
     {
-      "nombre": "el casar",
+      "nombre": "El Casar",
       "tipo": "intermedia",
       "codigo": "61222",
       "conexiones": []
     },
     {
-      "nombre": "los espartales",
+      "nombre": "Los Espartales",
       "tipo": "intermedia",
       "codigo": "61223",
       "conexiones": []
@@ -1882,25 +1882,25 @@
       "conexiones": []
     },
     {
-      "nombre": "julian besteiro",
+      "nombre": "Julián Besteiro",
       "tipo": "intermedia",
       "codigo": "61226",
       "conexiones": []
     },
     {
-      "nombre": "casa del reloj",
+      "nombre": "Casa del Reloj",
       "tipo": "intermedia",
       "codigo": "61227",
       "conexiones": []
     },
     {
-      "nombre": "H Severo Ochoa",
+      "nombre": "Hospital Severo Ochoa",
       "tipo": "intermedia",
       "codigo": "61228",
       "conexiones": []
     },
     {
-      "nombre": "Leganes cntrl",
+      "nombre": "Leganés Central",
       "tipo": "intermedia",
       "codigo": "61229",
       "conexiones": []
@@ -1920,49 +1920,49 @@
       ]
     },
     {
-      "nombre": "pq. Lisboa",
+      "nombre": "Parque Lisboa",
       "tipo": "intermedia",
       "codigo": "61202",
       "conexiones": []
     },
     {
-      "nombre": "alcorcon",
+      "nombre": "Alcorcón Central",
       "tipo": "intermedia",
       "codigo": "61203",
       "conexiones": []
     },
     {
-      "nombre": "pq. Oeste",
+      "nombre": "Parque Oeste",
       "tipo": "intermedia",
       "codigo": "61204",
       "conexiones": []
     },
     {
-      "nombre": "Univ. Rey j. Carlos",
+      "nombre": "Universidad Rey Juan Carlos",
       "tipo": "intermedia",
       "codigo": "61205",
       "conexiones": []
     },
     {
-      "nombre": "Mostoles cntrl",
+      "nombre": "Móstoles Central",
       "tipo": "intermedia",
       "codigo": "61206",
       "conexiones": []
     },
     {
-      "nombre": "pradillo",
+      "nombre": "Pradillo",
       "tipo": "intermedia",
       "codigo": "61207",
       "conexiones": []
     },
     {
-      "nombre": "H de Mostoles",
+      "nombre": "Hospital de Móstoles",
       "tipo": "intermedia",
       "codigo": "61208",
       "conexiones": []
     },
     {
-      "nombre": "manuela malasaña",
+      "nombre": "Manuela Malasaña",
       "tipo": "fin",
       "codigo": "61209",
       "conexiones": []
@@ -1970,7 +1970,7 @@
   ],
   "LR": [
     {
-      "nombre": "pio",
+      "nombre": "Ópera",
       "tipo": "cabecera",
       "codigo": "60625",
       "conexiones": [
@@ -1979,7 +1979,7 @@
       ]
     },
     {
-      "nombre": "pio",
+      "nombre": "Príncipe Pío",
       "tipo": "fin",
       "codigo": "60209",
       "conexiones": [
@@ -1990,7 +1990,7 @@
   ],
   "ML": [
     {
-      "nombre": "pinar",
+      "nombre": "Pinar de Chamartín",
       "tipo": "cabecera",
       "codigo": "60153",
       "conexiones": [
@@ -2005,7 +2005,19 @@
       "conexiones": []
     },
     {
-      "nombre": "Virgen del cortijo",
+      "nombre": "Virgen del Cortijo",
+      "tipo": "intermedia",
+      "codigo": "65113",
+      "conexiones": []
+    },
+    {
+      "nombre": "Antonio Saura",
+      "tipo": "intermedia",
+      "codigo": "65113",
+      "conexiones": []
+    },
+    {
+      "nombre": "Álvarez de Villaamil",
       "tipo": "intermedia",
       "codigo": "65113",
       "conexiones": []
@@ -2017,10 +2029,24 @@
       "conexiones": []
     },
     {
-      "nombre": "maria tudor",
-      "tipo": "fin",
+      "nombre": "María Tudor",
+      "tipo": "intermedia",
       "codigo": "65117",
       "conexiones": []
+    },
+    {
+      "nombre": "Palas del Rey",
+      "tipo": "intermedia",
+      "codigo": "65117",
+      "conexiones": []
+    },
+    {
+      "nombre": "Las Tablas",
+      "tipo": "fin",
+      "codigo": "65117",
+      "conexiones": [
+        "L10"
+      ]
     }
   ]
 }

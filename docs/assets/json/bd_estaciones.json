@@ -657,7 +657,7 @@
       "conexiones": []
     },
     {
-      "nombre": "pinar",
+      "nombre": "Pinar de Chamartín",
       "tipo": "fin",
       "codigo": "60153",
       "conexiones": [
@@ -1970,7 +1970,7 @@
   ],
   "LR": [
     {
-      "nombre": "pio",
+      "nombre": "Ópera",
       "tipo": "cabecera",
       "codigo": "60625",
       "conexiones": [
@@ -1979,7 +1979,7 @@
       ]
     },
     {
-      "nombre": "pio",
+      "nombre": "Príncipe Pío",
       "tipo": "fin",
       "codigo": "60209",
       "conexiones": [
@@ -1990,7 +1990,7 @@
   ],
   "ML": [
     {
-      "nombre": "pinar",
+      "nombre": "Pinar de Chamartín",
       "tipo": "cabecera",
       "codigo": "60153",
       "conexiones": [
