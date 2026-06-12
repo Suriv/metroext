@@ -770,7 +770,7 @@
       "conexiones": []
     },
     {
-      "nombre": "Gran via",
+      "nombre": "Gran Vía",
       "tipo": "intermedia",
       "codigo": "60111",
       "conexiones": [
@@ -889,13 +889,13 @@
   ],
   "L6": [
     {
-      "nombre": "laguna",
+      "nombre": "Laguna",
       "tipo": "cabecera",
       "codigo": "60601",
       "conexiones": []
     },
     {
-      "nombre": "carpetana",
+      "nombre": "Carpetana",
       "tipo": "intermedia",
       "codigo": "60602",
       "conexiones": []
@@ -909,13 +909,13 @@
       ]
     },
     {
-      "nombre": "opañel",
+      "nombre": "Opañel",
       "tipo": "intermedia",
       "codigo": "60604",
       "conexiones": []
     },
     {
-      "nombre": "Eliptica",
+      "nombre": "Plaza Elíptica",
       "tipo": "intermedia",
       "codigo": "60605",
       "conexiones": [
@@ -923,7 +923,7 @@
       ]
     },
     {
-      "nombre": "usera",
+      "nombre": "Usera",
       "tipo": "intermedia",
       "codigo": "60606",
       "conexiones": []
@@ -937,19 +937,19 @@
       ]
     },
     {
-      "nombre": "Planetario",
+      "nombre": "Arganzuela-Planetario",
       "tipo": "intermedia",
       "codigo": "60608",
       "conexiones": []
     },
     {
-      "nombre": "m. alvaro",
+      "nombre": "Méndez Álvaro",
       "tipo": "intermedia",
       "codigo": "60609",
       "conexiones": []
     },
     {
-      "nombre": "Pacifico",
+      "nombre": "Pacífico",
       "tipo": "intermedia",
       "codigo": "60118",
       "conexiones": [
@@ -957,13 +957,13 @@
       ]
     },
     {
-      "nombre": "Conde de casal",
+      "nombre": "Conde de Casal",
       "tipo": "intermedia",
       "codigo": "60611",
       "conexiones": []
     },
     {
-      "nombre": "S. Baranda",
+      "nombre": "Sainz de Baranda",
       "tipo": "intermedia",
       "codigo": "60612",
       "conexiones": [
@@ -971,13 +971,13 @@
       ]
     },
     {
-      "nombre": "o´donnell",
+      "nombre": "O'Donnell",
       "tipo": "intermedia",
       "codigo": "60613",
       "conexiones": []
     },
     {
-      "nombre": "becerra",
+      "nombre": "Manuel Becerra",
       "tipo": "intermedia",
       "codigo": "60202",
       "conexiones": [
@@ -985,7 +985,7 @@
       ]
     },
     {
-      "nombre": "Diego de leon",
+      "nombre": "Diego de León",
       "tipo": "intermedia",
       "codigo": "60410",
       "conexiones": [
@@ -994,7 +994,7 @@
       ]
     },
     {
-      "nombre": "Avda. America",
+      "nombre": "Avenida de América",
       "tipo": "intermedia",
       "codigo": "60411",
       "conexiones": [
@@ -1004,7 +1004,7 @@
       ]
     },
     {
-      "nombre": "r. argentina",
+      "nombre": "República Argentina",
       "tipo": "intermedia",
       "codigo": "60617",
       "conexiones": []
@@ -1019,7 +1019,7 @@
       ]
     },
     {
-      "nombre": "caminos",
+      "nombre": "Cuatro Caminos",
       "tipo": "intermedia",
       "codigo": "60106",
       "conexiones": [
@@ -1028,7 +1028,7 @@
       ]
     },
     {
-      "nombre": "Guzman el bueno",
+      "nombre": "Guzmán el Bueno",
       "tipo": "intermedia",
       "codigo": "60620",
       "conexiones": [
@@ -1036,19 +1036,19 @@
       ]
     },
     {
-      "nombre": "metro",
+      "nombre": "Vicente Aleixandre",
       "tipo": "intermedia",
       "codigo": "60621",
       "conexiones": []
     },
     {
-      "nombre": "universitaria",
+      "nombre": "Ciudad Universitaria",
       "tipo": "intermedia",
       "codigo": "60622",
       "conexiones": []
     },
     {
-      "nombre": "moncloa",
+      "nombre": "Moncloa",
       "tipo": "intermedia",
       "codigo": "60311",
       "conexiones": [
@@ -1065,7 +1065,7 @@
       ]
     },
     {
-      "nombre": "P.pio",
+      "nombre": "Príncipe Pío",
       "tipo": "intermedia",
       "codigo": "60625",
       "conexiones": [
@@ -1074,13 +1074,13 @@
       ]
     },
     {
-      "nombre": "Pta. angel",
+      "nombre": "Puerta del Ángel",
       "tipo": "intermedia",
       "codigo": "60626",
       "conexiones": []
     },
     {
-      "nombre": "Alto extremadura",
+      "nombre": "Alto Extremadura",
       "tipo": "intermedia",
       "codigo": "60627",
       "conexiones": []
